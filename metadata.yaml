@@ -1,0 +1,33 @@
+_repo: With-Sully-into-the-Sioux-Land_42150
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Norton, John W.
+    gutenberg_agent_id: '41552'
+    url: http://www.gutenberg.org/2009/agents/41552
+covers:
+- cover_type: archival
+  image_path: 42150-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Hanson, Joseph Mills
+    birthdate: 1876
+    gutenberg_agent_id: '41551'
+    url: http://www.gutenberg.org/2009/agents/41551
+description: ''
+gutenberg_issued: '2013-02-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '42150'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sully, Alfred, 1821-1879 -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Killdeer Mountain, Battle of, North Dakota, 1864 -- Fiction'
+- !lcsh 'Frontier and pioneer life -- United States -- Fiction'
+- !lcsh 'Dakota Indians -- Fiction'
+title: With Sully into the Sioux Land
+url: http://www.gutenberg.org/ebooks/42150
