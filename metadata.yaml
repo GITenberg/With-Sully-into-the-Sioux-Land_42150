@@ -15,6 +15,8 @@ creator:
     gutenberg_agent_id: '41551'
     url: http://www.gutenberg.org/2009/agents/41551
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/42150#With-Sully-into-the-Sioux-Land
 gutenberg_issued: '2013-02-21'
 gutenberg_type: Text
 identifiers:
